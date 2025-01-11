@@ -36,6 +36,7 @@ input, button {
     color: white;
     border: none;
     border-radius: 0.3em;
+    transition:  background-color 0.3s ease;
     
 
 }
